@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:020617,20:0F172A,42:1E293B,55:334155,72:2563EB,100:60A5FA&text=Ayush%20Kumar%20Shaw&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Agentic%20RAG%20%7C%20Backend%20Systems%20%7C%20NIT%20Durgapur%20CSE&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:020617,18:0F172A,35:1E293B,50:334155,62:2563EB,100:60A5FA&text=Ayush%20Kumar%20Shaw&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Agentic%20RAG%20%7C%20Backend%20Systems%20%7C%20NIT%20Durgapur%20CSE&descAlignY=60&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&width=1050&lines=Building+production-grade+AI+%2B+backend+systems;Designing+scalable+RAG+architectures+and+ML+pipelines;Backend+Engineering+%7C+LLMs+%7C+Retrieval+Systems+%7C+Cloud;LeetCode+Knight+%7C+Codeforces+Specialist;Turning+complex+ideas+into+deployable+products" alt="Typing SVG" />
 
@@ -391,6 +391,6 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 ### ⭐ Building systems that are useful, scalable, and production-ready.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,42:1E293B,55:334155,72:2563EB,100:60A5FA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,18:0F172A,35:1E293B,50:334155,62:2563EB,100:60A5FA" />
 
 </div>
