@@ -391,6 +391,6 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 ### ⭐ Building systems that are useful, scalable, and production-ready.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,18:0F172A,38:1E293B,50:334155,58:2563EB,100:60A5FA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:1E293B,50:334155,55:2563EB,100:60A5FA" />
 
 </div>
