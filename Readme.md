@@ -106,23 +106,27 @@ While many of my systems leverage AI, my primary focus is on:
 
 ---
 
-## ⚡ Agentic RAG — Multi-Document Backend System
+## ⚡ Agentic RAG — Multi-PDF RAG Chatbot
 
-> Scalable document-processing and retrieval system supporting ingestion, chunking, indexing, hybrid retrieval, and structured LLM outputs.
+> Production-ready multi-PDF RAG platform with authentication, persistent storage, active-learning reranker training, hybrid visual reranking, Docker support, Azure deployment readiness, and streaming LLM responses.
 
 [![Repository](https://img.shields.io/badge/Repository-RaG_Chatbot-black?style=for-the-badge&logo=github)](https://github.com/ayushaks999/RaG_Chatbot)
 
 **Tech Stack:**  
-`Python` · `LangChain` · `Streamlit` · `Vector DB` · `LLM APIs`
+`Python` · `Streamlit` · `LangChain` · `Gemini API` · `ChromaDB` · `SQLite` · `Docker` · `Azure` · `Tavily`
 
 | Feature | Details |
 |---|---|
-| Multi-File Ingestion | Supports processing multiple documents |
-| Semantic Chunking | Clean chunking pipeline for better retrieval quality |
-| Hybrid Retrieval | Combines semantic and keyword-style retrieval |
-| Structured Output | JSON-style responses for tool calling |
-| Streaming | Real-time response streaming |
-| Architecture | Modular and extensible backend design |
+| Multi-PDF Ingestion | Upload and query across multiple PDFs with token-aware chunking and optional OCR fallback |
+| Authentication | Multi-user login/register with PBKDF2-SHA256 password hashing and per-user storage |
+| Persistent Storage | SQLite-backed users, chats, uploaded files, feedback, and document registry |
+| Vector Retrieval | ChromaDB-based retrieval with configurable top-k search and persistent storage support |
+| Active Learning | Feedback buttons train an incremental reranker using SGDClassifier |
+| Hybrid Reranking | Experimental ColPali / ColQwen visual reranking for tables, diagrams, and image-heavy PDFs |
+| Streaming Answers | Real-time LLM responses with source-grounded snippet confidence and provenance |
+| Web Fallback | Tavily web search fallback when document confidence is low |
+| Deployment | Docker-ready and Azure deployment-ready with environment-variable configuration |
+| Security | File sanitization, rate limiting, sandboxed storage, and export tools |
 
 ---
 
