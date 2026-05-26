@@ -49,7 +49,6 @@ Current Focus
 ├── AI / GenAI Systems        RAG, Agentic Workflows, LLM apps, vector retrieval
 ├── ML Engineering            Forecasting, classification, model pipelines, evaluation
 ├── System Design             Scalable architecture, performance, reliability
-├── Portfolio Engineering     React, Tailwind CSS, Vite, Vercel, premium UI/UX
 └── Competitive Programming   DSA, graphs, DP, greedy, trees, problem solving
 ```
 
@@ -57,53 +56,6 @@ Current Focus
 <td width="34%" valign="top">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Developer animation" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Live Portfolio
-
-<div align="center">
-
-<a href="https://ayush-portfolio-beta-khaki.vercel.app">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Portfolio Highlights
-
-* Premium **red + black cinematic UI**
-* Built with **React + Tailwind CSS + Vite**
-* Hosted on **Vercel**
-* Responsive single-page portfolio
-* Clean sections for About, Skills, Projects, Achievements, and Contact
-* Image-based project cards with filters
-* Recruiter-friendly SDE + AI/ML positioning
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Portfolio Tech Stack
-
-```txt
-Frontend     React, Vite
-Styling      Tailwind CSS
-Deployment   Vercel
-Design       Premium dark UI, red accent system
-Content      SDE + AI/ML + GenAI + RAG focused
-```
-
-**Live Link:** [ayush-portfolio-beta-khaki.vercel.app](https://ayush-portfolio-beta-khaki.vercel.app)
 
 </td>
 </tr>
@@ -124,7 +76,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * Modular, maintainable project architecture
 * Dockerized and deployment-ready systems
 * Practical system design mindset
-* Clean portfolio and product presentation
 
 </td>
 <td width="50%">
@@ -136,7 +87,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * LLM orchestration and streaming responses
 * ML forecasting and classification pipelines
 * Evaluation, provenance, and explainability
-* Production-minded AI application design
 
 </td>
 </tr>
@@ -156,8 +106,8 @@ Content      SDE + AI/ML + GenAI + RAG focused
 | 🔵 Codeforces | Specialist, 1400+ rating |
 | 🧠 DSA | 1000+ problems solved across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
 | 📈 JEE Main | 98.1 percentile among 1.6M+ candidates |
-| 🌐 Portfolio | Premium React + Tailwind + Vercel portfolio with red/black visual identity |
 | 🛠 Projects | Agentic RAG, ARGO RAG Explorer, AI Sales Report Generator, AI Meeting Summarizer, Voice Assistant, ML pipelines |
+| 🌐 Portfolio | [Live Portfolio Website](https://ayush-portfolio-beta-khaki.vercel.app) |
 
 </div>
 
@@ -197,13 +147,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-025E8C?style=for-the-badge)
 
-### Frontend / Portfolio
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
-
 ### Tools / Cloud / DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -221,27 +164,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## 🌐 Premium Developer Portfolio
-
-**A red-and-black premium portfolio website built to present my SDE + AI/ML profile with strong recruiter-facing storytelling, project cards, skills, achievements, and contact sections.**
-
-[![Live](https://img.shields.io/badge/Live%20Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-portfolio-beta-khaki.vercel.app)
-[![Repo](https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github)](https://github.com/ayushaks999/ayush-portfolio)
-
-**Tech:** React, Vite, Tailwind CSS, Vercel
-
-**Key Features**
-
-* Premium black/red visual identity
-* Responsive single-page portfolio layout
-* Skills map inspired by modern portfolio UI
-* Filterable image-based project cards
-* Recruiter-friendly positioning for SDE, AI/ML, GenAI, and RAG roles
-* Hosted on Vercel with GitHub deployment workflow
-
-</td>
 <td width="50%" valign="top">
 
 ## ⚡ Agentic RAG — Multi-PDF RAG Chatbot
@@ -265,11 +187,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * Docker-ready and Azure deployment-ready architecture
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ## 📊 AI Sales & Marketing Report Generator
@@ -292,6 +209,11 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * End-to-end pipeline designed for scalable reporting workloads
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ## 🌊 ARGO RAG Explorer
@@ -313,11 +235,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * Tool orchestration for SQL/table previews and file access
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ## 🎤 AI Meeting Summarizer
@@ -340,6 +257,11 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * Local SQLite storage for privacy-focused meeting history
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ## 🎙️ Voice Assistant Project
@@ -361,11 +283,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * Modular backend with separate modules for Q&A, music, weather, reminders, speech, and prompts
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ## 🦠 Malaria Detection Pipeline
@@ -385,27 +302,6 @@ Content      SDE + AI/ML + GenAI + RAG focused
 * Practical computer vision application with healthcare relevance
 
 </td>
-<td width="50%" valign="top">
-
-## 🧠 Agentic Multi-PDF RAG Platforms
-
-**RAG systems designed for robust document understanding, hybrid retrieval, tool orchestration, streaming responses, and structured LLM outputs.**
-
-[![Repo](https://img.shields.io/badge/View%20Projects-111827?style=for-the-badge&logo=github)](https://github.com/ayushaks999?tab=repositories)
-
-**Tech:** Python, Streamlit, Flask, LangChain, ChromaDB, SQLite, LLM APIs
-
-**Key Features**
-
-* Semantic chunking and hybrid retrieval
-* Structured JSON generation from LLMs
-* SQL/table preview tools
-* File access and document-grounded answering
-* Streaming responses for better UX
-* Source-aware answers and retrieval transparency
-* Backend-focused architecture with deployment readiness
-
-</td>
 </tr>
 </table>
 
@@ -420,7 +316,6 @@ Good Retrieval       > generic LLM answers
 Clean Architecture   > one-file prototypes
 Measurable Impact    > vague feature lists
 Deployment Readiness > local-only projects
-Portfolio Quality    > generic profile pages
 ```
 
 ---
@@ -485,7 +380,7 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 <div align="center">
 
-### ⭐ Building systems that are useful, scalable, production-ready, and visually polished.
+### ⭐ Building systems that are useful, scalable, and production-ready.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,35:7F1D1D,70:DC2626,100:020617" />
 
