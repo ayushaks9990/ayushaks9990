@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://ayushportfolio-sepia.vercel.app">
+<a href="https://ayushshaw-nitdgp.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/ayush-shaw-231b86325">
@@ -116,7 +116,7 @@ Current Focus
 | 🧠 DSA | 1000+ problems solved across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
 | 📈 JEE Main | 98.1 percentile among 1.6M+ candidates |
 | 🛠 Projects | Agentic RAG, ARGO RAG Explorer, AI Sales Report Generator, AI Meeting Summarizer, Voice Assistant, ML pipelines |
-| 🌐 Portfolio | [Live Portfolio Website](https://ayushportfolio-sepia.vercel.app) |
+| 🌐 Portfolio | [Live Portfolio Website](https://ayushshaw-nitdgp.vercel.app) |
 
 </div>
 
@@ -378,7 +378,7 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushportfolio-sepia.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushshaw-nitdgp.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shaw-231b86325)
 [![Email](https://img.shields.io/badge/Send%20Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaks099@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushaks999)
