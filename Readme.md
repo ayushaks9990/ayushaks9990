@@ -378,7 +378,7 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushportfolio-sepia.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushshaw-nitdgp.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shaw-231b86325)
 [![Email](https://img.shields.io/badge/Send%20Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaks099@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushaks999)
