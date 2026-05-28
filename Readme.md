@@ -114,7 +114,7 @@ Current Focus
 | 🟠 LeetCode | Knight, Max Rating 1851+, Top 4% globally |
 | 🔵 Codeforces | Specialist, 1400+ rating |
 | 🧠 DSA | 1000+ problems solved across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
-| 📈 JEE Main | 98.1 percentile among 1.6M+ candidates |
+| 📈 JEE Main | Top 1 percentage among 1.6M+ candidates |
 | 🛠 Projects | Agentic RAG, ARGO RAG Explorer, AI Sales Report Generator, AI Meeting Summarizer, Voice Assistant, ML pipelines |
 | 🌐 Portfolio | [Live Portfolio Website](https://ayushshaw-nitdgp.vercel.app) |
 
