@@ -153,13 +153,20 @@ Current Focus
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge)
 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DC2626?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-DC2626?style=for-the-badge)
 ![RCNN](https://img.shields.io/badge/R--CNN-B91C1C?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-7C3AED?style=for-the-badge)
 
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-6D28D9?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2563EB?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-1D4ED8?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![RAG](https://img.shields.io/badge/RAG%20Systems-0EA5E9?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge)
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
