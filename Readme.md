@@ -405,4 +405,8 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:1E293B,50:334155,55:2563EB,100:60A5FA" />
 
+
+
+
+
 </div>
