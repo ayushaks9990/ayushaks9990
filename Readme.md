@@ -121,32 +121,64 @@ Current Focus
 </div>
 
 ---
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 💻 Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,sql,bash&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1E293B?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Backend / APIs / Databases
+
+![Flask](https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-334155?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-475569?style=for-the-badge)
+
+### AI / ML / GenAI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Systems-0EA5E9?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge)
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DC2626?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-DC2626?style=for-the-badge)
+![RCNN](https://img.shields.io/badge/R--CNN-B91C1C?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-7C3AED?style=for-the-badge)
+
+![NLP](https://img.shields.io/badge/NLP-2563EB?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-1D4ED8?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-025E8C?style=for-the-badge)
+
+### Tools / Cloud / DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
-
-## ⚙️ Backend • APIs • Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mysql,sqlite,mongodb,redis,docker,git,github,linux,postman&theme=dark" />
-</p>
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="48"/>
-</p>
-
 ---
 
 ## 🤖 AI • Machine Learning • Deep Learning
