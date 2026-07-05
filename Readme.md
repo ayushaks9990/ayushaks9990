@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:020617,18:0F172A,36:1E293B,48:334155,56:2563EB,100:60A5FA&text=Ayush%20Kumar%20Shaw&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Agentic%20RAG%20%7C%20Backend%20Systems%20%7C%20NIT%20Durgapur%20CSE&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,18:0F172A,36:1E293B,48:334155,56:2563EB,100:60A5FA&text=Ayush%20Kumar%20Shaw&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Agentic%20RAG%20%7C%20Backend%20Systems%20%7C%20NIT%20Durgapur%20CSE&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&width=1050&lines=Building+production-grade+AI+%2B+backend+systems;Designing+scalable+RAG+architectures+and+ML+pipelines;Backend+Engineering+%7C+LLMs+%7C+Retrieval+Systems+%7C+Cloud;LeetCode+Knight+%7C+Codeforces+Specialist;Turning+complex+ideas+into+deployable+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&width=1050&lines=Engineering+production-grade+AI+and+backend+systems;Designing+scalable+RAG+architectures+and+ML+pipelines;Building+LLM+apps%2C+retrieval+systems%2C+and+deployable+products;LeetCode+Knight+%E2%80%A2+Codeforces+Specialist;Turning+complex+ideas+into+real-world+software" alt="Typing SVG" />
 
 <br/>
 
@@ -43,9 +43,9 @@
 <tr>
 <td width="66%" valign="top">
 
-I am a **Computer Science undergraduate at NIT Durgapur** focused on building **production-ready software systems** at the intersection of **backend engineering, AI/ML, GenAI, Agentic RAG systems, and scalable application design**.
+I’m a **Computer Science undergraduate at NIT Durgapur** focused on building **beautifully engineered, production-ready systems** at the intersection of **backend engineering, AI/ML, GenAI, Agentic RAG, and scalable application design**.
 
-I enjoy taking an idea from **architecture → implementation → optimization → deployment**, with strong emphasis on clean code, retrieval quality, performance, reliability, and real-world usability.
+I enjoy taking an idea from **architecture → implementation → optimization → deployment**, with a strong obsession for clean code, retrieval quality, performance, reliability, and real-world usability.
 
 ```txt
 Current Focus
@@ -189,7 +189,7 @@ Current Focus
 
 ## ⚡ Agentic RAG — Multi-PDF RAG Chatbot
 
-**Production-ready RAG platform for multi-PDF question answering with authentication, persistent storage, active learning, hybrid visual reranking, Docker support, Azure deployment readiness, and streaming LLM responses.**
+**A production-ready RAG platform for multi-PDF question answering with authentication, persistent storage, active learning, hybrid visual reranking, Docker support, Azure deployment readiness, and streaming LLM responses.**
 
 [![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/RaG_Chatbot)
 
@@ -212,7 +212,7 @@ Current Focus
 
 ## 📊 AI Sales & Marketing Report Generator
 
-**Agentic RAG system that turns raw sales and marketing data into automated executive reports using multi-agent orchestration, retrieval provenance, charts, and scheduled delivery.**
+**An agentic RAG system that transforms raw sales and marketing data into polished executive reports using multi-agent orchestration, retrieval provenance, charts, and scheduled delivery.**
 
 [![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/Report_Generator)
 
@@ -239,7 +239,7 @@ Current Focus
 
 ## 🌊 ARGO RAG Explorer
 
-**Oceanographic ML + RAG system that converts ARGO NetCDF sensor data into structured, queryable databases for visualization, prediction, and scientific question answering.**
+**An oceanographic ML + RAG system that converts ARGO NetCDF sensor data into structured, queryable databases for visualization, prediction, and scientific question answering.**
 
 [![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/OceanForge_AI)
 
@@ -260,7 +260,7 @@ Current Focus
 
 ## 🎤 AI Meeting Summarizer
 
-**Desktop meeting intelligence app that records, transcribes, summarizes, and extracts actionable tasks from meetings using AI-powered transcription and summarization workflows.**
+**A desktop meeting intelligence app that records, transcribes, summarizes, and extracts actionable tasks from meetings using AI-powered transcription and summarization workflows.**
 
 [![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/AI-Meeting-Summarizer)
 
@@ -287,7 +287,7 @@ Current Focus
 
 ## 🎙️ Voice Assistant Project
 
-**Voice assistant with live speech interaction, general Q&A, YouTube music playback, live weather updates, reminders with notifications, and a real-time Flask chat UI.**
+**A voice assistant with live speech interaction, general Q&A, YouTube music playback, live weather updates, reminders with notifications, and a real-time Flask chat UI.**
 
 [![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/Assistant#voice-assistant-project)
 
@@ -308,7 +308,7 @@ Current Focus
 
 ## 🦠 Malaria Detection Pipeline
 
-**Image-based malaria detection system with preprocessing, CNN training, OpenCV-based image handling, evaluation metrics, and reusable ML engineering structure.**
+**An image-based malaria detection system with preprocessing, CNN training, OpenCV-based image handling, evaluation metrics, and reusable ML engineering structure.**
 
 [![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/Malaria_Prediction)
 
@@ -325,19 +325,6 @@ Current Focus
 </td>
 </tr>
 </table>
-
----
-
-## 📌 Engineering Principles I Care About
-
-```txt
-Readable Code        > clever code
-Reliable Systems     > fragile demos
-Good Retrieval       > generic LLM answers
-Clean Architecture   > one-file prototypes
-Measurable Impact    > vague feature lists
-Deployment Readiness > local-only projects
-```
 
 ---
 
@@ -358,20 +345,6 @@ Deployment Readiness > local-only projects
 
 ---
 
-## 🧠 Competitive Programming
-
-<div align="center">
-
-| Platform | Level | Profile |
-|---|---:|---|
-| LeetCode | Knight, 1851+ Rating, Top 4% | [ayushaks9999](https://leetcode.com/u/ayushaks9999/) |
-| Codeforces | Specialist, 1400+ Rating | [ayushaks999](https://codeforces.com/profile/ayushaks999) |
-| Total Practice | 1000+ DSA Problems | Graphs, DP, Trees, Greedy, Binary Search, Advanced DS |
-
-</div>
-
----
-
 ## 🎯 Currently Targeting
 
 <div align="center">
@@ -386,7 +359,7 @@ Deployment Readiness > local-only projects
 
 <div align="center">
 
-I am open to internships, collaborations, impactful AI/backend projects, and engineering discussions around scalable systems, RAG, ML pipelines, competitive programming, and production-grade AI applications.
+I’m open to internships, collaborations, high-impact AI/backend projects, and engineering conversations around scalable systems, RAG, ML pipelines, competitive programming, and production-grade AI applications.
 
 <br/>
 
@@ -401,12 +374,7 @@ I am open to internships, collaborations, impactful AI/backend projects, and eng
 
 <div align="center">
 
-### ⭐ Building systems that are useful, scalable, and production-ready.
+### ⭐ Building systems that are useful, elegant, scalable, and production-ready.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:1E293B,50:334155,55:2563EB,100:60A5FA" />
-
-
-
-
-
 </div>
