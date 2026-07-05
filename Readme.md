@@ -122,51 +122,88 @@ Current Focus
 
 ---
 
-## 🛠️ Tech Stack
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+## 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-1E293B?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,sql,bash&theme=dark" />
+</p>
 
-### Backend / APIs / Databases
+---
 
-![Flask](https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-334155?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-475569?style=for-the-badge)
+## ⚙️ Backend • APIs • Databases
 
-### AI / ML / GenAI
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mysql,sqlite,mongodb,redis,docker,git,github,linux,postman&theme=dark" />
+</p>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-0EA5E9?style=for-the-badge)
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="48"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="48"/>
+</p>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge)
+---
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DC2626?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-DC2626?style=for-the-badge)
-![RCNN](https://img.shields.io/badge/R--CNN-B91C1C?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-7C3AED?style=for-the-badge)
+## 🤖 AI • Machine Learning • Deep Learning
 
-![NLP](https://img.shields.io/badge/NLP-2563EB?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-1D4ED8?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+</p>
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-025E8C?style=for-the-badge)
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chromadb-color.png" height="48"/>
+<img src="https://raw.githubusercontent.com/microsoft/autogen/main/docs/images/logo.svg" height="48"/>
+</p>
+
+<p>
+
+**Frameworks & Concepts**
+
+`Agentic AI` • `RAG` • `LangGraph` • `Vector Databases`
+• `LLMs` • `Prompt Engineering`
+• `Transformers` • `CNN`
+• `R-CNN` • `YOLO`
+• `LSTM` • `NLP`
+• `Computer Vision`
+• `XGBoost`
+• `LightGBM`
+
+</p>
+
+---
+
+## ☁️ Cloud • DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,linux,vscode&theme=dark" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,git,github,linux&theme=dark" />
+</p>
+
+<p>
+
+**Also Experienced With**
+
+Streamlit • SQLAlchemy • ChromaDB • Gemini API • OpenAI API • Groq API • Tavily • Deepgram • Socket.IO
+
+</p>
+
+</div>
+
+---
 
 ### Tools / Cloud / DevOps
 
