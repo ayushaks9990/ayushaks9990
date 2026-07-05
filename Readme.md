@@ -177,30 +177,6 @@ Current Focus
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
----
-## ☁️ Cloud • DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,linux,vscode&theme=dark" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,git,github,linux&theme=dark" />
-</p>
-
-<p>
-
-**Also Experienced With**
-
-Streamlit • SQLAlchemy • ChromaDB • Gemini API • OpenAI API • Groq API • Tavily • Deepgram • Socket.IO
-
-</p>
-
-</div>
 
 ---
 
