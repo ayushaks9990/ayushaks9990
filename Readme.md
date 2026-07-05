@@ -177,40 +177,7 @@ Current Focus
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
-
 ---
----
-
-## 🤖 AI • Machine Learning • Deep Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-</p>
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48"/>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/chromadb-color.png" height="48"/>
-<img src="https://raw.githubusercontent.com/microsoft/autogen/main/docs/images/logo.svg" height="48"/>
-</p>
-
-<p>
-
-**Frameworks & Concepts**
-
-`Agentic AI` • `RAG` • `LangGraph` • `Vector Databases`
-• `LLMs` • `Prompt Engineering`
-• `Transformers` • `CNN`
-• `R-CNN` • `YOLO`
-• `LSTM` • `NLP`
-• `Computer Vision`
-• `XGBoost`
-• `LightGBM`
-
-</p>
-
----
-
 ## ☁️ Cloud • DevOps
 
 <p>
