@@ -330,14 +330,14 @@ Current Focus
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushaks999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushaks999&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushaks9990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushaks9990&theme=tokyonight&hide_border=true" />
 
 <br/>
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushaks999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushaks999&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushaks9990&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushaks9990&theme=tokyonight" />
 
 </div>
 
