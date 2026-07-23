@@ -1,10 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,18:0F172A,36:1E293B,48:334155,56:2563EB,100:60A5FA&text=Ayush%20Kumar%20Shaw&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Agentic%20RAG%20%7C%20Backend%20Systems%20%7C%20NIT%20Durgapur%20CSE&descAlignY=60&descSize=18" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&width=1050&lines=Engineering+production-grade+AI+and+backend+systems;Designing+scalable+RAG+architectures+and+ML+pipelines;Building+LLM+apps%2C+retrieval+systems%2C+and+deployable+products;LeetCode+Knight+%E2%80%A2+Codeforces+Specialist;Turning+complex+ideas+into+real-world+software" alt="Typing SVG" />
 
 <br/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=900&lines=Clean+architecture+%E2%80%A2+Reliable+retrieval+%E2%80%A2+Production-minded+engineering;Backend+systems+%E2%80%A2+Agentic+RAG+%E2%80%A2+Applied+ML+%E2%80%A2+System+Design;Strong+DSA+foundation+%E2%80%A2+Practical+AI+applications+%E2%80%A2+Deployable+products" alt="Animated Focus Line" />
 
