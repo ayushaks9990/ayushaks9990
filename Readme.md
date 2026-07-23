@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/ayush-shaw-231b86325">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/ayushaks999">
+<a href="https://github.com/ayushaks9990">
   <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:ayushaks099@gmail.com">
@@ -189,7 +189,7 @@ Current Focus
 
 **A production-ready RAG platform for multi-PDF question answering with authentication, persistent storage, active learning, hybrid visual reranking, Docker support, Azure deployment readiness, and streaming LLM responses.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/RaG_Chatbot)
+[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/RaG_Chatbot)
 
 **Tech:** Python, Streamlit, LangChain, Gemini API, ChromaDB, SQLite, Docker, Azure, Tavily
 
@@ -212,7 +212,7 @@ Current Focus
 
 **An agentic RAG system that transforms raw sales and marketing data into polished executive reports using multi-agent orchestration, retrieval provenance, charts, and scheduled delivery.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/Report_Generator)
+[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/Report_Generator)
 
 **Tech:** Python, Streamlit, AutoGen, RAG, ChromaDB, GROQ/OpenAI APIs, SQLite, Docker
 
@@ -239,7 +239,7 @@ Current Focus
 
 **An oceanographic ML + RAG system that converts ARGO NetCDF sensor data into structured, queryable databases for visualization, prediction, and scientific question answering.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/OceanForge_AI)
+[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/OceanForge_AI)
 
 **Tech:** Python, Streamlit, LangChain, ChromaDB, XGBoost, LightGBM, SQLAlchemy
 
@@ -260,7 +260,7 @@ Current Focus
 
 **A desktop meeting intelligence app that records, transcribes, summarizes, and extracts actionable tasks from meetings using AI-powered transcription and summarization workflows.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/AI-Meeting-Summarizer)
+[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/AI-Meeting-Summarizer)
 
 **Tech:** Electron, Python, Flask, Flask-SocketIO, SQLAlchemy, SQLite, Deepgram, LLM APIs, Socket.IO
 
@@ -287,7 +287,7 @@ Current Focus
 
 **A voice assistant with live speech interaction, general Q&A, YouTube music playback, live weather updates, reminders with notifications, and a real-time Flask chat UI.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/Assistant#voice-assistant-project)
+[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/Assistant#voice-assistant-project)
 
 **Tech:** Python, Flask, Groq API, Open-Meteo API, yt-dlp, VLC, Speech Recognition
 
@@ -308,7 +308,7 @@ Current Focus
 
 **An image-based malaria detection system with preprocessing, CNN training, OpenCV-based image handling, evaluation metrics, and reusable ML engineering structure.**
 
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks999/Malaria_Prediction)
+[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/Malaria_Prediction)
 
 **Tech:** Python, TensorFlow, CNN, OpenCV, Computer Vision
 
@@ -364,7 +364,7 @@ I’m open to internships, collaborations, high-impact AI/backend projects, and 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushshaw-nitdgp.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shaw-231b86325)
 [![Email](https://img.shields.io/badge/Send%20Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaks099@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushaks999)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushaks9990)
 
 </div>
 
