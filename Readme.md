@@ -1,378 +1,215 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,18:0F172A,36:1E293B,48:334155,56:2563EB,100:60A5FA&text=Ayush%20Kumar%20Shaw&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Agentic%20RAG%20%7C%20Backend%20Systems%20%7C%20NIT%20Durgapur%20CSE&descAlignY=60&descSize=18" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&width=1050&lines=Engineering+production-grade+AI+and+backend+systems;Designing+scalable+RAG+architectures+and+ML+pipelines;Building+LLM+apps%2C+retrieval+systems%2C+and+deployable+products;LeetCode+Knight+%E2%80%A2+Codeforces+Specialist;Turning+complex+ideas+into+real-world+software" alt="Typing SVG" />
-
-<br/>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=900&lines=Clean+architecture+%E2%80%A2+Reliable+retrieval+%E2%80%A2+Production-minded+engineering;Backend+systems+%E2%80%A2+Agentic+RAG+%E2%80%A2+Applied+ML+%E2%80%A2+System+Design;Strong+DSA+foundation+%E2%80%A2+Practical+AI+applications+%E2%80%A2+Deployable+products" alt="Animated Focus Line" />
-
-<br/>
+<!-- Profile repository: ayushaks9990/ayushaks9990. Upload assets/ with this README. -->
 
 <a href="https://ayushshaw-nitdgp.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="./assets/hero.png" width="100%" alt="Ayush Kumar Shaw — backend systems, agentic AI and applied ML. NIT Durgapur Computer Science, Class of 2027." />
 </a>
-<a href="https://linkedin.com/in/ayush-shaw-231b86325">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/ayushaks9990">
-  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:ayushaks099@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-334155?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/ayushaks9999/">
-  <img src="https://img.shields.io/badge/LeetCode-Knight-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://codeforces.com/profile/ayushaks999">
-  <img src="https://img.shields.io/badge/Codeforces-Specialist-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ayushaks999&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" />
-
-</div>
-
----
-
-## 👋 About Me
-
-<table>
-<tr>
-<td width="66%" valign="top">
-
-I’m a **Computer Science undergraduate at NIT Durgapur** focused on building **beautifully engineered, production-ready systems** at the intersection of **backend engineering, AI/ML, GenAI, Agentic RAG, and scalable application design**.
-
-I enjoy taking an idea from **architecture → implementation → optimization → deployment**, with a strong obsession for clean code, retrieval quality, performance, reliability, and real-world usability.
-
-```txt
-Current Focus
-├── Backend Engineering       REST APIs, SQLAlchemy, databases, auth, deployment
-├── AI / GenAI Systems        RAG, Agentic Workflows, LLM apps, vector retrieval
-├── ML Engineering            Forecasting, classification, model pipelines, evaluation
-├── System Design             Scalable architecture, performance, reliability
-└── Competitive Programming   DSA, graphs, DP, greedy, trees, problem solving
-```
-
-</td>
-<td width="34%" valign="top">
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Developer animation" />
+  <a href="https://ayushshaw-nitdgp.vercel.app"><img src="./assets/button-portfolio.svg" height="40" alt="Visit my portfolio" /></a>
+  <a href="https://linkedin.com/in/ayush-shaw-231b86325"><img src="./assets/button-linkedin.svg" height="40" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/ayushaks9990"><img src="./assets/button-github.svg" height="40" alt="Explore my GitHub" /></a>
+  <a href="mailto:ayushaks099@gmail.com"><img src="./assets/button-email.svg" height="40" alt="Email Ayush" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=330&lines=Backend+Systems;Agentic+RAG;ML+Pipelines;Production-Ready+AI;System+Design+%2B+DSA" alt="Focus animation" />
+  <b>Software engineer building intelligent products.</b><br />
+  Computer Science @ NIT Durgapur · Class of 2027 · Open to internships &amp; collaborations
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp; / &nbsp;
+  <a href="#achievements--education">Achievements</a> &nbsp; / &nbsp;
+  <a href="#lets-connect">Contact</a>
+</p>
 
----
+<img src="./assets/focus.svg" width="100%" alt="Backend systems → Agentic AI and RAG → Build, evaluate, ship" />
 
-## 🚀 What I Bring
+## About me
 
-<table>
-<tr>
-<td width="50%">
+I’m **Ayush Kumar Shaw**, a **B.Tech Computer Science undergraduate at NIT Durgapur**, building backend systems, full-stack AI products, and applied ML solutions.
 
-### 💻 Software Engineering
+I enjoy owning the complete engineering process: **architecture → implementation → evaluation → deployment**. My work brings together APIs, authentication, databases, retrieval, agent workflows, and interfaces that make complex systems useful.
 
-* Backend-heavy application development
-* REST APIs, database design, authentication
-* Modular, maintainable project architecture
-* Dockerized and deployment-ready systems
-* Practical system design mindset
+- **Backend engineering:** REST APIs, authentication, persistent storage, streaming, and modular services.
+- **AI systems:** Agentic RAG, multi-agent workflows, semantic search, reranking, and grounded answers.
+- **Applied ML:** Forecasting, classification, computer vision, and reproducible evaluation pipelines.
+- **CS fundamentals:** Data structures, algorithms, system design, and competitive programming.
 
-</td>
-<td width="50%">
+<p align="center">
+  <img src="./assets/highlights.svg" width="100%" alt="LeetCode Knight, max rating 1851+ and top 4%; Codeforces Specialist, 1400+; 1200+ problems solved; NIT Durgapur CSE, Class of 2027." />
+</p>
 
-### 🤖 AI / ML Engineering
+## Selected projects
 
-* Agentic RAG and multi-document QA systems
-* Vector databases and semantic search
-* LLM orchestration and streaming responses
-* ML forecasting and classification pipelines
-* Evaluation, provenance, and explainability
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Highlights
-
-<div align="center">
-
-| Area | Achievement |
-|---|---|
-| 🎓 Education | B.Tech CSE, National Institute of Technology Durgapur, Class of 2027 |
-| 🟠 LeetCode | Knight, Max Rating 1851+, Top 4% globally |
-| 🔵 Codeforces | Specialist, 1400+ rating |
-| 🧠 DSA | 1200+ problems solved across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
-| 📈 JEE Main | Top 1 percentage among 1.6M+ candidates |
-| 🛠 Projects | Agentic RAG, ARGO RAG Explorer, AI Sales Report Generator, AI Meeting Summarizer, Voice Assistant, ML pipelines |
-| 🌐 Portfolio | [Live Portfolio Website](https://ayushshaw-nitdgp.vercel.app) |
-
-</div>
-
----
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-1E293B?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Backend / APIs / Databases
-
-![Flask](https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-334155?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-475569?style=for-the-badge)
-
-### AI / ML / GenAI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-0EA5E9?style=for-the-badge)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge)
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DC2626?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-DC2626?style=for-the-badge)
-![RCNN](https://img.shields.io/badge/R--CNN-B91C1C?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-7C3AED?style=for-the-badge)
-
-![NLP](https://img.shields.io/badge/NLP-2563EB?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-1D4ED8?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-025E8C?style=for-the-badge)
-
-### Tools / Cloud / DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
-
----
-
-# 🧩 Featured Projects
+**Full-stack AI, agentic systems, retrieval, and applied machine learning.**
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-## ⚡ Agentic RAG — Multi-PDF RAG Chatbot
-
-**A production-ready RAG platform for multi-PDF question answering with authentication, persistent storage, active learning, hybrid visual reranking, Docker support, Azure deployment readiness, and streaming LLM responses.**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/RaG_Chatbot)
-
-**Tech:** Python, Streamlit, LangChain, Gemini API, ChromaDB, SQLite, Docker, Azure, Tavily
-
-**Key Features**
-
-* Multi-PDF ingestion with token-aware chunking and optional OCR fallback
-* Multi-user authentication with PBKDF2-SHA256 password hashing
-* Per-user chats, uploads, feedback, and document registry
-* ChromaDB-based semantic retrieval with persistent storage
-* Feedback-driven incremental reranker using `SGDClassifier`
-* Experimental ColPali / ColQwen hybrid visual reranking
-* Streaming LLM answers with source-grounded snippets and confidence
-* Tavily web fallback when document confidence is low
-* Docker-ready and Azure deployment-ready architecture
-
+<a href="https://github.com/ayushaks9990/LifeOSs"><img src="./assets/lifeos.svg" width="100%" alt="LifeOS — personal AI operating system" /></a>
+<h3>LifeOS</h3>
+<p><b>Personal AI operating system</b></p>
+<p>One workspace for assistant chat, memory, tasks, goals, planning, reminders, and finance.</p>
+<ul>
+<li>Gmail, Calendar, and connected integrations</li>
+<li>Music and voice interaction</li>
+<li>JWT and OAuth 2.0 authentication</li>
+</ul>
+<p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Groq</code> <code>Docker</code></p>
+<p><a href="https://github.com/ayushaks9990/LifeOSs"><b>Explore LifeOS →</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-## 📊 AI Sales & Marketing Report Generator
-
-**An agentic RAG system that transforms raw sales and marketing data into polished executive reports using multi-agent orchestration, retrieval provenance, charts, and scheduled delivery.**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/Report_Generator)
-
-**Tech:** Python, Streamlit, AutoGen, RAG, ChromaDB, GROQ/OpenAI APIs, SQLite, Docker
-
-**Key Features**
-
-* Multi-agent workflow with Data Analyst and Report Writer agents
-* RAG pipeline with auditable retrieval provenance
-* Structured JSON LLM outputs with fallback-safe parsing
-* Automated executive summaries and business insights
-* Chart generation with `matplotlib`
-* HTML email and Telegram delivery support
-* Timezone-aware scheduler and logging
-* End-to-end pipeline designed for scalable reporting workloads
-
+<a href="https://github.com/ayushaks9990/Voyageos"><img src="./assets/voyageos.svg" width="100%" alt="VoyageOS AI — autonomous travel copilot" /></a>
+<h3>VoyageOS AI</h3>
+<p><b>Autonomous travel copilot</b></p>
+<p>An AI vacation planner that turns a source, destination, and preferences into a complete trip.</p>
+<ul>
+<li>Multi-agent planning and destination recommendations</li>
+<li>Flight and hotel discovery, with budget optimization</li>
+<li>Personalized day-by-day itineraries</li>
+</ul>
+<p><code>FastAPI</code> <code>React</code> <code>Groq</code> <code>Google Places</code> <code>Amadeus</code> <code>PostgreSQL</code> <code>Docker</code></p>
+<p><a href="https://github.com/ayushaks9990/Voyageos"><b>Explore VoyageOS AI →</b></a></p>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
-
-## 🌊 ARGO RAG Explorer
-
-**An oceanographic ML + RAG system that converts ARGO NetCDF sensor data into structured, queryable databases for visualization, prediction, and scientific question answering.**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/OceanForge_AI)
-
-**Tech:** Python, Streamlit, LangChain, ChromaDB, XGBoost, LightGBM, SQLAlchemy
-
-**Key Features**
-
-* NetCDF to structured SQL-ready data ingestion
-* RAG-powered exploration over oceanographic datasets
-* Interactive scientific visualizations
-* Multi-model forecasting pipeline
-* Random Forest, Gradient Boosting, XGBoost, and LightGBM
-* Explainable retrieval traces and reproducible workflows
-* Tool orchestration for SQL/table previews and file access
-
+<a href="https://github.com/ayushaks9990/RaG_Chatbot"><img src="./assets/rag.svg" width="100%" alt="Agentic RAG — multi-PDF question answering" /></a>
+<h3>Agentic Multi-PDF RAG</h3>
+<p><b>Retrieval with grounding and feedback</b></p>
+<p>A multi-user document QA platform with persistent conversations, semantic retrieval, and streaming answers.</p>
+<ul>
+<li>Token-aware PDF ingestion and optional OCR</li>
+<li>Feedback-driven reranking and experimental visual reranking</li>
+<li>Source snippets, web fallback, and deployment support</li>
+</ul>
+<p><code>Python</code> <code>Streamlit</code> <code>LangChain</code> <code>Gemini</code> <code>ChromaDB</code> <code>SQLite</code> <code>Docker</code> <code>Azure</code></p>
+<p><a href="https://github.com/ayushaks9990/RaG_Chatbot"><b>Explore Agentic RAG →</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-## 🎤 AI Meeting Summarizer
-
-**A desktop meeting intelligence app that records, transcribes, summarizes, and extracts actionable tasks from meetings using AI-powered transcription and summarization workflows.**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/AI-Meeting-Summarizer)
-
-**Tech:** Electron, Python, Flask, Flask-SocketIO, SQLAlchemy, SQLite, Deepgram, LLM APIs, Socket.IO
-
-**Key Features**
-
-* Local audio capture for meeting recording
-* Real-time transcription every 10 seconds while recording
-* AI-powered meeting summaries and action item extraction
-* Smart task lists with priorities and assignees
-* Desktop notifications for major events
-* Google Calendar, Notion, Jira, and translation integrations
-* Meeting title editing, audio playback, advanced search, and participant tracking
-* Local SQLite storage for privacy-focused meeting history
-
+<a href="https://github.com/ayushaks9990/ReporT"><img src="./assets/signalforge.svg" width="100%" alt="SignalForge AI — sales and marketing report generator" /></a>
+<h3>SignalForge AI</h3>
+<p><b>AI sales &amp; marketing report generator</b></p>
+<p>An authenticated business-intelligence platform that transforms sales and marketing data into useful analysis.</p>
+<ul>
+<li>Live analytics and polished visualizations</li>
+<li>Agentic analysis and executive-ready AI reports</li>
+<li>Full-stack architecture with deployment support</li>
+</ul>
+<p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Groq</code> <code>RAG</code> <code>Docker</code></p>
+<p><a href="https://github.com/ayushaks9990/ReporT"><b>Explore SignalForge AI →</b></a></p>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
-
-## 🎙️ Voice Assistant Project
-
-**A voice assistant with live speech interaction, general Q&A, YouTube music playback, live weather updates, reminders with notifications, and a real-time Flask chat UI.**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/Assistant#voice-assistant-project)
-
-**Tech:** Python, Flask, Groq API, Open-Meteo API, yt-dlp, VLC, Speech Recognition
-
-**Key Features**
-
-* Voice input and synthesized voice output
-* General Q&A through conversational AI
-* YouTube music playback using `yt-dlp` and VLC
-* Live weather updates for any location
-* Reminder system with notifications
-* Chat-based UI for real-time conversations
-* Modular backend with separate modules for Q&A, music, weather, reminders, speech, and prompts
-
+<a href="https://github.com/ayushaks9990/OceanForge_AI"><img src="./assets/argo.svg" width="100%" alt="ARGO Explorer — oceanographic ML and RAG" /></a>
+<h3>ARGO RAG Explorer</h3>
+<p><b>Oceanographic data, made queryable</b></p>
+<p>An ML + RAG platform for turning ARGO NetCDF sensor data into structured, searchable datasets.</p>
+<ul>
+<li>NetCDF ingestion and SQL-ready storage</li>
+<li>Scientific visualization and RAG exploration</li>
+<li>Forecasting workflows with multiple ML models</li>
+</ul>
+<p><code>Python</code> <code>Streamlit</code> <code>LangChain</code> <code>ChromaDB</code> <code>SQLAlchemy</code> <code>XGBoost</code> <code>LightGBM</code></p>
+<p><a href="https://github.com/ayushaks9990/OceanForge_AI"><b>Explore ARGO →</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-## 🦠 Malaria Detection Pipeline
-
-**An image-based malaria detection system with preprocessing, CNN training, OpenCV-based image handling, evaluation metrics, and reusable ML engineering structure.**
-
-[![Repo](https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github)](https://github.com/ayushaks9990/Malaria_Prediction)
-
-**Tech:** Python, TensorFlow, CNN, OpenCV, Computer Vision
-
-**Key Features**
-
-* Structured image preprocessing pipeline
-* CNN-based malaria classification
-* Evaluation using accuracy metrics and visual diagnostics
-* Reusable ML training and inference flow
-* Practical computer vision application with healthcare relevance
-
+<a href="https://github.com/ayushaks9990/Malaria_Prediction"><img src="./assets/malaria.svg" width="100%" alt="Malaria Detection — CNN classification pipeline" /></a>
+<h3>Malaria Detection Pipeline</h3>
+<p><b>Applied computer vision</b></p>
+<p>An image-classification project covering preprocessing, CNN training, and evaluation.</p>
+<ul>
+<li>Structured image preprocessing</li>
+<li>TensorFlow CNN classification</li>
+<li>Evaluation metrics and visual diagnostics</li>
+</ul>
+<p><code>Python</code> <code>TensorFlow</code> <code>CNN</code> <code>OpenCV</code></p>
+<p><a href="https://github.com/ayushaks9990/Malaria_Prediction"><b>Explore the pipeline →</b></a></p>
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>More projects · meeting intelligence &amp; voice interaction</b></summary>
 
-## 📈 GitHub Analytics
+### AI Meeting Summarizer
 
-<div align="center">
+A desktop app for recording meetings, transcribing audio, generating summaries, and extracting action items. Includes task priorities and assignees, notifications, search, audio playback, and local meeting history.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushaks9990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushaks9990&theme=tokyonight&hide_border=true" />
+**Stack:** Electron · Python · Flask · Flask-SocketIO · SQLAlchemy · SQLite · Deepgram · LLM APIs
 
-<br/>
-<br/>
+[Explore AI Meeting Summarizer →](https://github.com/ayushaks9990/AI-Meeting-Summarizer)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushaks9990&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushaks9990&theme=tokyonight" />
+### Voice Assistant
 
-</div>
+Voice and chat interaction for general Q&A, YouTube music playback, weather updates, and reminders. Built with a modular backend for speech, music, weather, and notification workflows.
 
----
+**Stack:** Python · Flask · Groq · Open-Meteo · yt-dlp · VLC · Speech Recognition
 
-## 🎯 Currently Targeting
+[Explore Voice Assistant →](https://github.com/ayushaks9990/Assistant#voice-assistant-project)
 
-<div align="center">
+</details>
 
-`Software Development Engineer Intern` · `Backend Engineering Intern` · `AI Engineering Intern` · `ML Engineering Intern` · `GenAI / RAG Engineering Intern`
+<details>
+<summary><b>Inside the RAG system · retrieval, learning &amp; deployment</b></summary>
 
-</div>
+- **Ingestion:** Multi-PDF uploads, token-aware chunking, optional OCR, and a document registry.
+- **User isolation:** PBKDF2-SHA256 password hashing, per-user chats, uploads, and feedback.
+- **Retrieval:** Persistent ChromaDB semantic search and source-grounded snippets.
+- **Learning:** A feedback-driven incremental reranker using `SGDClassifier`.
+- **Experiments:** ColPali / ColQwen hybrid visual reranking.
+- **Answers:** Streaming responses, confidence signals, and Tavily web fallback.
+- **Deployment:** Docker support and Azure deployment readiness.
 
----
+</details>
 
-## 🤝 Connect With Me
+## Tech stack
 
-<div align="center">
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · C++ · JavaScript · SQL · Bash |
+| **Frontend & interfaces** | React · Tailwind CSS · Streamlit · Electron |
+| **Backend & APIs** | FastAPI · Flask · REST APIs · SQLAlchemy · JWT · OAuth 2.0 · Streaming · Socket.IO |
+| **Databases & storage** | PostgreSQL · SQLite · MongoDB · Redis · ChromaDB · Vector databases |
+| **Agentic AI & retrieval** | LangChain · LangGraph · AutoGen · RAG · LLM orchestration · Semantic search · Reranking |
+| **ML & deep learning** | TensorFlow · Scikit-learn · XGBoost · LightGBM · Transformers · Hugging Face · OpenCV |
+| **Cloud & development** | Docker · Azure · GitHub Actions · Git · Linux · CI/CD |
+| **CS fundamentals** | DSA · OOP · System design · DBMS · Computer networks · Computer organization & architecture · Software engineering |
 
-I’m open to internships, collaborations, high-impact AI/backend projects, and engineering conversations around scalable systems, RAG, ML pipelines, competitive programming, and production-grade AI applications.
+<details>
+<summary><b>ML areas I work with</b></summary>
 
-<br/>
+Forecasting · Classification · Computer vision · CNNs · R-CNN · YOLO · NLP · LSTMs · Transformers · Model evaluation
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushshaw-nitdgp.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shaw-231b86325)
-[![Email](https://img.shields.io/badge/Send%20Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaks099@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushaks9990)
+</details>
 
-</div>
+## Achievements & education
 
----
+| Area | Highlights |
+| :--- | :--- |
+| **LeetCode** | **Knight** · Max rating **1851+** · **Top 4%** globally · [Profile](https://leetcode.com/u/ayushaks9999/) |
+| **Codeforces** | **Specialist** · **1400+** rating · [Profile](https://codeforces.com/profile/ayushaks999) |
+| **Problem solving** | **1200+ problems** across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
+| **Core academics** | **10/10 grades** in OOP, DSA, Mathematics, AI/ML, Software Engineering, and Embedded Systems |
+| **JEE Main** | **Top 1%** |
+| **University** | **National Institute of Technology, Durgapur** · B.Tech in Computer Science and Engineering · **Aug 2023 – Jun 2027** |
+| **School** | **Delhi Public School, Durgapur** · Graduated **May 2022** |
 
-<div align="center">
+## Let’s connect
 
-### ⭐ Building systems that are useful, elegant, scalable, and production-ready.
+I’m open to **SDE, backend, AI/ML, and GenAI / RAG internships**, as well as collaborations on useful engineering projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:1E293B,50:334155,55:2563EB,100:60A5FA" />
-</div>
+If you’re working on retrieval, agent workflows, backend architecture, or an intelligent product, I’d love to connect.
+
+<a href="mailto:ayushaks099@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let’s build something useful. Contact Ayush about engineering opportunities." /></a>
+
+<p align="center">
+  <a href="mailto:ayushaks099@gmail.com"><b>ayushaks099@gmail.com</b></a><br /><br />
+  <a href="https://ayushshaw-nitdgp.vercel.app">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/ayush-shaw-231b86325">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://github.com/ayushaks9990?tab=repositories">Repositories</a> &nbsp; · &nbsp;
+  <a href="https://github.com/ayushaks9990?tab=overview">GitHub activity</a>
+</p>
