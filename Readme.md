@@ -1,5 +1,5 @@
 <a href="https://ayushshaw-nitdgp.vercel.app">
-  <img src="./assets/hero-animated.svg" width="100%" alt="Ayush Kumar Shaw — a futuristic engineering workstation with a small Hanuman ji statue and softly animated monitors. Backend systems, agentic AI and applied ML. NIT Durgapur CSE, 2027." />
+  <img src="./assets/hero.png" width="100%" alt="Ayush Kumar Shaw — a futuristic engineering workstation with a small Hanuman ji statue and softly animated monitors. Backend systems, agentic AI and applied ML. NIT Durgapur CSE, 2027." />
 </a>
 <p align="center">
   <a href="https://ayushshaw-nitdgp.vercel.app"><img src="./assets/button-portfolio.svg" height="40" alt="Visit my portfolio" /></a>
