@@ -1,21 +1,16 @@
-<!-- Profile repository: ayushaks9990/ayushaks9990. Upload the complete assets folder with this README. The animated hero is self-contained; hero.png is the static alternative. -->
-
 <a href="https://ayushshaw-nitdgp.vercel.app">
   <img src="./assets/hero-animated.svg" width="100%" alt="Ayush Kumar Shaw — a futuristic engineering workstation with a small Hanuman ji statue and softly animated monitors. Backend systems, agentic AI and applied ML. NIT Durgapur CSE, 2027." />
 </a>
-
 <p align="center">
   <a href="https://ayushshaw-nitdgp.vercel.app"><img src="./assets/button-portfolio.svg" height="40" alt="Visit my portfolio" /></a>
   <a href="https://linkedin.com/in/ayush-shaw-231b86325"><img src="./assets/button-linkedin.svg" height="40" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/ayushaks9990"><img src="./assets/button-github.svg" height="40" alt="Explore my GitHub" /></a>
   <a href="mailto:ayushaks099@gmail.com"><img src="./assets/button-email.svg" height="40" alt="Email Ayush" /></a>
 </p>
-
 <p align="center">
   <b>Engineering useful software. Building intelligent experiences.</b><br />
   Computer Science @ NIT Durgapur · Class of 2027 · Open to internships &amp; collaborations
 </p>
-
 <p align="center">
   <a href="#about-me">About</a> &nbsp; / &nbsp;
   <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
@@ -25,23 +20,20 @@
 </p>
 
 <img src="./assets/focus.svg" width="100%" alt="Architect. Build. Evaluate. Ship." />
-## About me
-I’m **Ayush Kumar Shaw**, a **B.Tech Computer Science undergraduate at NIT Durgapur**, building backend systems, full-stack AI products, and applied ML solutions.
 
-I enjoy owning the complete engineering process: **architecture → implementation → evaluation → deployment**. My work brings together APIs, authentication, databases, retrieval, agent workflows, and interfaces that make complex systems useful.
-
-- **Backend engineering:** REST APIs, authentication, persistent storage, streaming, and modular services.
-- **AI systems:** Agentic RAG, multi-agent workflows, semantic search, reranking, and grounded answers.
-- **Applied ML:** Forecasting, classification, computer vision, and reproducible evaluation pipelines.
-- **CS fundamentals:** Data structures, algorithms, system design, and competitive programming.
-
+About me
+I’m Ayush Kumar Shaw, a B.Tech Computer Science undergraduate at NIT Durgapur, building backend systems, full-stack AI products, and applied ML solutions.
+I enjoy owning the complete engineering process: architecture → implementation → evaluation → deployment. My work brings together APIs, authentication, databases, retrieval, agent workflows, and interfaces that make complex systems useful.
+- Backend engineering: REST APIs, authentication, persistent storage, streaming, and modular services.
+- AI systems: Agentic RAG, multi-agent workflows, semantic search, reranking, and grounded answers.
+- Applied ML: Forecasting, classification, computer vision, and reproducible evaluation pipelines.
+- CS fundamentals: Data structures, algorithms, system design, and competitive programming.
 <p align="center">
   <img src="./assets/highlights.svg" width="100%" alt="LeetCode Knight, max rating 1851+ and top 4%; Codeforces Specialist, 1400+; 1200+ problems solved; 10/10 grades in core subjects." />
 </p>
 
-## Selected projects
-
-**Full-stack AI, agentic systems, retrieval, and applied machine learning.**
+Selected projects
+Full-stack AI, agentic systems, retrieval, and applied machine learning.
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -146,65 +138,89 @@ I enjoy owning the complete engineering process: **architecture → implementati
 </td>
 </tr>
 </table>
+
 <details>
 <summary><b>More projects · meeting intelligence &amp; voice interaction</b></summary>
-### AI Meeting Summarizer
-A desktop app for recording meetings, transcribing audio, generating summaries, and extracting action items. Includes task priorities and assignees, notifications, search, audio playback, and local meeting history.
-**Stack:** Electron · Python · Flask · Flask-SocketIO · SQLAlchemy · SQLite · Deepgram · LLM APIs
-[Explore AI Meeting Summarizer →](https://github.com/ayushaks9990/AI-Meeting-Summarizer)
-### Voice Assistant
-Voice and chat interaction for general Q&A, YouTube music playback, weather updates, and reminders. Built with a modular backend for speech, music, weather, and notification workflows.
-**Stack:** Python · Flask · Groq · Open-Meteo · yt-dlp · VLC · Speech Recognition
-[Explore Voice Assistant →](https://github.com/ayushaks9990/Assistant#voice-assistant-project)
+
+<h3>AI Meeting Summarizer</h3>
+<p>A desktop app for recording meetings, transcribing audio, generating summaries, and extracting action items. Includes task priorities and assignees, notifications, search, audio playback, and local meeting history.</p>
+<p><b>Stack:</b> Electron · Python · Flask · Flask-SocketIO · SQLAlchemy · SQLite · Deepgram · LLM APIs</p>
+<p><a href="https://github.com/ayushaks9990/AI-Meeting-Summarizer">Explore AI Meeting Summarizer →</a></p>
+
+<h3>Voice Assistant</h3>
+<p>Voice and chat interaction for general Q&amp;A, YouTube music playback, weather updates, and reminders. Built with a modular backend for speech, music, weather, and notification workflows.</p>
+<p><b>Stack:</b> Python · Flask · Groq · Open-Meteo · yt-dlp · VLC · Speech Recognition</p>
+<p><a href="https://github.com/ayushaks9990/Assistant#voice-assistant-project">Explore Voice Assistant →</a></p>
+
 </details>
+
 <details>
 <summary><b>Inside the RAG system · retrieval, learning &amp; deployment</b></summary>
-- **Ingestion:** Multi-PDF uploads, token-aware chunking, optional OCR, and a document registry.
-- **User isolation:** PBKDF2-SHA256 password hashing, per-user chats, uploads, and feedback.
-- **Retrieval:** Persistent ChromaDB semantic search and source-grounded snippets.
-- **Learning:** A feedback-driven incremental reranker using `SGDClassifier`.
-- **Experiments:** ColPali / ColQwen hybrid visual reranking.
-- **Answers:** Streaming responses, confidence signals, and Tavily web fallback.
-- **Deployment:** Docker support and Azure deployment readiness.
+
+<ul>
+<li><b>Ingestion:</b> Multi-PDF uploads, token-aware chunking, optional OCR, and a document registry.</li>
+<li><b>User isolation:</b> PBKDF2-SHA256 password hashing, per-user chats, uploads, and feedback.</li>
+<li><b>Retrieval:</b> Persistent ChromaDB semantic search and source-grounded snippets.</li>
+<li><b>Learning:</b> A feedback-driven incremental reranker using <code>SGDClassifier</code>.</li>
+<li><b>Experiments:</b> ColPali / ColQwen hybrid visual reranking.</li>
+<li><b>Answers:</b> Streaming responses, confidence signals, and Tavily web fallback.</li>
+<li><b>Deployment:</b> Docker support and Azure deployment readiness.</li>
+</ul>
+
 </details>
-## Tech stack
+
+Tech stack
 <img src="./assets/technology.svg" width="100%" alt="My technology stack: languages, backend systems, frontend, databases, AI/ML and cloud. Expand the full list below for all tools." />
+
 <details>
 <summary><b>Full technology stack &amp; CS fundamentals</b></summary>
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Python · C++ · JavaScript · SQL · Bash |
-| **Frontend & interfaces** | React · Tailwind CSS · Streamlit · Electron |
-| **Backend & APIs** | FastAPI · Flask · REST APIs · SQLAlchemy · JWT · OAuth 2.0 · Streaming · Socket.IO |
-| **Databases & storage** | PostgreSQL · SQLite · MongoDB · Redis · ChromaDB · Vector databases |
-| **Agentic AI & retrieval** | LangChain · LangGraph · AutoGen · RAG · LLM orchestration · Semantic search · Reranking |
-| **ML & deep learning** | TensorFlow · Scikit-learn · XGBoost · LightGBM · Transformers · Hugging Face · OpenCV |
-| **Cloud & development** | Docker · Azure · GitHub Actions · Git · Linux · CI/CD |
-| **CS fundamentals** | DSA · OOP · System design · DBMS · Computer networks · Computer organization & architecture · Software engineering |
+
+<table>
+<thead><tr><th>Area</th><th>Technologies</th></tr></thead>
+<tbody>
+<tr><td><b>Languages</b></td><td>Python · C++ · JavaScript · SQL · Bash</td></tr>
+<tr><td><b>Frontend &amp; interfaces</b></td><td>React · Tailwind CSS · Streamlit · Electron</td></tr>
+<tr><td><b>Backend &amp; APIs</b></td><td>FastAPI · Flask · REST APIs · SQLAlchemy · JWT · OAuth 2.0 · Streaming · Socket.IO</td></tr>
+<tr><td><b>Databases &amp; storage</b></td><td>PostgreSQL · SQLite · MongoDB · Redis · ChromaDB · Vector databases</td></tr>
+<tr><td><b>Agentic AI &amp; retrieval</b></td><td>LangChain · LangGraph · AutoGen · RAG · LLM orchestration · Semantic search · Reranking</td></tr>
+<tr><td><b>ML &amp; deep learning</b></td><td>TensorFlow · Scikit-learn · XGBoost · LightGBM · Transformers · Hugging Face · OpenCV</td></tr>
+<tr><td><b>Cloud &amp; development</b></td><td>Docker · Azure · GitHub Actions · Git · Linux · CI/CD</td></tr>
+<tr><td><b>CS fundamentals</b></td><td>DSA · OOP · System design · DBMS · Computer networks · Computer organization &amp; architecture · Software engineering</td></tr>
+</tbody>
+</table>
+
 </details>
+
 <details>
 <summary><b>ML areas I work with</b></summary>
-Forecasting · Classification · Computer vision · CNNs · R-CNN · YOLO · NLP · LSTMs · Transformers · Model evaluation
+
+<p>Forecasting · Classification · Computer vision · CNNs · R-CNN · YOLO · NLP · LSTMs · Transformers · Model evaluation</p>
+
 </details>
-## Achievements & education
-**National Institute of Technology, Durgapur**  
-B.Tech in Computer Science and Engineering · **2023–2027**
-**LeetCode Knight** · **Codeforces Specialist** · **1200+ problems solved**
-[LeetCode profile →](https://leetcode.com/u/ayushaks9999/) &nbsp; · &nbsp; [Codeforces profile →](https://codeforces.com/profile/ayushaks999)
+
+Achievements & education
+National Institute of Technology, Durgapur
+B.Tech in Computer Science and Engineering · 2023–2027
+LeetCode Knight · Codeforces Specialist · 1200+ problems solved
+LeetCode profile →   ·   Codeforces profile →
 <details>
 <summary><b>Ratings, academic achievements &amp; education</b></summary>
-| Area | Highlights |
-| :--- | :--- |
-| **LeetCode** | **Knight** · Max rating **1851+** · **Top 4%** globally · [Profile](https://leetcode.com/u/ayushaks9999/) |
-| **Codeforces** | **Specialist** · **1400+** rating · [Profile](https://codeforces.com/profile/ayushaks999) |
-| **Problem solving** | **1200+ problems** across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures |
-| **Core academics** | **10/10 grades** in OOP, DSA, Mathematics, AI/ML, Software Engineering, and Embedded Systems |
-| **JEE Main** | **Top 1%** |
-| **University** | **National Institute of Technology, Durgapur** · B.Tech in Computer Science and Engineering · **Aug 2023 – Jun 2027** |
-| **School** | **Delhi Public School, Durgapur** · Graduated **May 2022** |
+
+<table>
+<thead><tr><th>Area</th><th>Highlights</th></tr></thead>
+<tbody>
+<tr><td><b>LeetCode</b></td><td><b>Knight</b> · Max rating <b>1851+</b> · <b>Top 4%</b> globally · <a href="https://leetcode.com/u/ayushaks9999/">Profile</a></td></tr>
+<tr><td><b>Codeforces</b></td><td><b>Specialist</b> · <b>1400+</b> rating · <a href="https://codeforces.com/profile/ayushaks999">Profile</a></td></tr>
+<tr><td><b>Problem solving</b></td><td><b>1200+ problems</b> across arrays, graphs, DP, trees, greedy, binary search, and advanced data structures</td></tr>
+<tr><td><b>Core academics</b></td><td><b>10/10 grades</b> in OOP, DSA, Mathematics, AI/ML, Software Engineering, and Embedded Systems</td></tr>
+<tr><td><b>JEE Main</b></td><td><b>Top 1%</b></td></tr>
+<tr><td><b>University</b></td><td><b>National Institute of Technology, Durgapur</b> · B.Tech in Computer Science and Engineering · <b>Aug 2023 – Jun 2027</b></td></tr>
+<tr><td><b>School</b></td><td><b>Delhi Public School, Durgapur</b> · Graduated <b>May 2022</b></td></tr>
+</tbody>
+</table>
 </details>
-## Let’s connect
-I’m open to **SDE, backend, AI/ML, and GenAI / RAG internships**, as well as collaborations on useful engineering projects.
+Let’s connect
+I’m open to SDE, backend, AI/ML, and GenAI / RAG internships, as well as collaborations on useful engineering projects.
 If you’re working on retrieval, agent workflows, backend architecture, or an intelligent product, I’d love to connect.
 <a href="mailto:ayushaks099@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let’s build something useful. Contact Ayush about engineering opportunities." /></a>
 <p align="center">
