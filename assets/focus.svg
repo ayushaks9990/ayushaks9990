@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-labelledby="title">
+<title id="title">Backend systems, agentic AI and RAG. Build, evaluate, ship.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101F35"/><stop offset="1" stop-color="#040A13"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#FFD633"/><stop offset="0.35" stop-color="#79DFFF"/><stop offset="0.7" stop-color="#468BFF"/><stop offset="1" stop-color="#143251"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#2563EB" stop-opacity=".32"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#366089" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="64" rx="8" fill="#07111E"/><path d="M22 53H1178" stroke="#27486A" stroke-width="1"/><text x="26" y="32" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#FFD633" letter-spacing="2">BACKEND SYSTEMS</text><text x="378" y="32" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#79DFFF" letter-spacing="2">AGENTIC AI + RAG</text><text x="774" y="32" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#F2F6FF" letter-spacing="2">BUILD. EVALUATE. SHIP.</text><path d="M281 25h53m-8-5 8 5-8 5 M678 25h50m-8-5 8 5-8 5" fill="none" stroke="#4976A4" stroke-width="1.5"/><circle cy="53" r="3" fill="#FFD633"><animate attributeName="cx" values="22;1178;22" dur="14s" repeatCount="indefinite"/></circle>
+</svg>
